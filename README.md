@@ -1,2 +1,2 @@
 # Neural_Networks
-A repository of neural network projects, for further reference.
+A collection of Deep Learning projects and notes, for further reference.
